@@ -7,3 +7,5 @@ Recently completed my Master's degree in Language Technology at Uppsala Universi
 Aside from coding, I enjoy reading, writing, gaming, movie-going, and playing music. 
 
 Ted Chiang's ["Stories of Your Life"](https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others) is my all-time favorite sci-fi story.
+
+You can contact me via email: [hapham.elv@gmail.com](mailto:hapham.elv@gmail.com).
